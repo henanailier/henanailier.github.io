@@ -1,0 +1,54 @@
+body {
+     background-image: url('https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F201409%2F06%2F20140906231907_RAJTr.thumb.1000_0.jpeg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1682480193&t=ce7e25aaf455e8da64601b01efb4f6ea');
+     background-repeat: repeat;
+     margin-left: 100px;
+     margin-right: 100px;
+    }
+  
+    .container {
+     display: flex;
+     flex-wrap: wrap;
+     column-gap: 50px;
+     row-gap: 30px;
+    }
+  
+    .column {
+     flex: 50%;
+     padding: 10px;
+    }
+
+    h1 {
+     color: #fff
+    }
+    p {
+     color: #fff
+    }
+    h2 {
+     color:#fff
+     border-bottom: 1px solid #ccc;
+     padding-bottom: 10px;
+    }
+    h2 {
+     color:#fff
+    }
+    h3 {
+     color:#fff
+    }
+    a {
+     color:#fff
+    }
+    .nav {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     background-color: #333;
+     color: #fff;
+     padding: 10px 50px;
+     margin-bottom: 30px;
+    }
+  
+    .nav a {
+     color: #fff;
+     text-decoration: none;
+     margin-right: 30px;
+    }
